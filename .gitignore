@@ -1,0 +1,15 @@
+# Configuracion con credenciales reales — nunca subir al repositorio
+config.json
+
+# Carpetas generadas en runtime
+GPO-Backups/
+Reports/
+
+# Archivos de log
+*.log
+daily_log.txt
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+*.tmp

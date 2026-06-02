@@ -1,0 +1,14 @@
+{
+  "DaysInactiveUsers": 90,
+  "DaysInactivePC": 90,
+  "SearchBase": "",
+  "BackupRoot": "C:\\AD-Toolkit\\GPO-Backups",
+  "MaxBackups": 10,
+  "OSFilter": "",
+  "GraphTenantId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "GraphClientId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "GraphClientSecretEncrypted": "",
+  "EmailFrom": "alertas-ad@tudominio.com",
+  "EmailTo": "admin@tudominio.com",
+  "SendAttachments": true
+}
